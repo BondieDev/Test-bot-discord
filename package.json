@@ -5,7 +5,10 @@
   "main": "bot.js",
   "author": "Bondie#6969",
   "dependencies": {
+<<<<<<< HEAD
     "@discordjs/rest": "^2.2.0",
+=======
+>>>>>>> a70e371eb80867f52306eaa4598af20131322e9b
     "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
     "discord.js": "^12.5.3",
     "winston": "^3.3.3"
